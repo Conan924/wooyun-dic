@@ -9,8 +9,8 @@ http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0148227
 ```
 /NCFindWeb?service=IPreAlertConfigService&filename=../../../../../etc/passwd
 ```
+<img width="848" alt="image-20220805161102650" src="https://user-images.githubusercontent.com/46959313/183036812-525f7db5-73c6-4cb6-b931-1f0e5ace1377.png">
 
-![image-20220805161102650](/Users/conan/Desktop/wooyun/README.assets/image-20220805161102650.png)
 
 诸如此类的还有很多0day都是组件，文件的历史漏洞，所以产生了爬取所有乌云漏洞url的想法
 
