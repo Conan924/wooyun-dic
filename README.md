@@ -16,7 +16,7 @@ http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0148227
 
 ## 结果
 
-根据镜像站爬的 http://wy.zone.ci/，很卡不太容易一步完成，分三步前前后后几天爬完的
+根据镜像站爬的 http://wy.zone.ci/  很卡不太容易一步完成，分三步前前后后几天爬完的
 
 这里放出来所有文件 方便师傅们进行其他操作和分析
 
